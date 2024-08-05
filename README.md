@@ -55,9 +55,9 @@ This is a web application that uses Flask for the backend and React.js for the f
 4. Select Qestions and get answer.
 
 
-## Screenshots
+## Screenshot
 
-![Home Screenshot](/screenshots/summary.png)
+![Home Screenshot](/screenshot/summary.png)
 
 ## Acknowledgements
 
